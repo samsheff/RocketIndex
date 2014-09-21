@@ -60,7 +60,7 @@ function createElasticsearchObject (messageNum, messageId, messageHeaders, messa
 
   esObject['messageId'] = messageId;
   esObject['messageNum'] = messageNum;
-  esObject['messageBody'] = messageBody;
+  //esObject['messageBody'] = messageBody;
 
   return esObject;
 }
