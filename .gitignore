@@ -1,0 +1,10 @@
+# Vim Artifact
+*.swp
+*.swo
+.ctrlp_cache/
+
+# Finder Artifacts
+.DS_Store
+
+# NPM
+node_modules/

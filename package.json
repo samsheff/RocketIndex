@@ -1,0 +1,10 @@
+{
+  "name": "RocketIndex",
+  "version": "0.1.0",
+  "author": "Sam Sheffres",
+  "description": "Usenet Crawler in Node.js",
+  "dependencies": {
+    "elasticsearch": "^2.4.2",
+    "nntp": "*"
+  }
+}
